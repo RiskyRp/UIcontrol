@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rdb_1" type="id" />
+    <item name="rdb_2" type="id" />
+    <item name="rdb_3" type="id" />
+    <item name="getBtn" type="id" />
+</resources>
